@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContosoUniversity",
+    "\\ContosoUniversity\\ContosoUniversity",
+    "\\ContosoUniversity\\ContosoUniversity\\Data",
+    "\\ContosoUniversity\\ContosoUniversity\\Views",
+    "\\ContosoUniversity\\ContosoUniversity\\Views\\Courses",
+    "\\ContosoUniversity\\ContosoUniversity\\Views\\Instructors",
+    "\\ContosoUniversity\\ContosoUniversity\\Views\\Shared",
+    "\\ContosoUniversity\\ContosoUniversity\\wwwroot",
+    "\\ContosoUniversity\\ContosoUniversity\\wwwroot\\lib",
+    "\\ContosoUniversity\\ContosoUniversity\\wwwroot\\lib\\bootstrap",
+    "\\ContosoUniversity\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist",
+    "\\ContosoUniversity\\ContosoUniversity\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\ContosoUniversity\\ContosoUniversity\\Data\\SchoolContext.cs",
+  "PreviewInSolutionExplorer": false
+}
